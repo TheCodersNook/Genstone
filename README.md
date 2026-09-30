@@ -1,0 +1,22 @@
+## Overview
+
+A circular pendent-like wearable device designed to keep your day organized and on track.
+### Key Features
+
+* **E-Ink Touchscreen & Rotary Encoder Enclosure**  
+  Uses an ultra-low-power E-Ink display paired with a rotary encoder integrated into the physical enclosure for quick navigation.
+
+* **Smart App & Calendar Sync**  
+  Synchronizes seamlessly over Wi-Fi with your calendar and to-do applications.
+
+* **AI-Powered "Today" Dashboard**  
+  Displays individual screens for today’s events and tasks, plus a combined "Today Page" that uses AI to organize and prioritize your schedule.
+
+* **Voice Dictation**  
+  Built-in microphone lets you quickly dictate notes, set reminders, and create calendar events hands-free.
+
+* **Tactile & Auditory Feedback**  
+  Equipped with a vibration motor and speaker for subtle alerts and audio prompts.
+
+* **Custom Hardware**  
+  Powered by an **ESP32** microcontroller mounted on a custom-designed circular PCB.
