@@ -1,23 +1,35 @@
-## Overview
 
-A compact, low-power desktop device designed to keep your day organized and on track. Featuring a custom circular form factor, an E-Ink touchscreen, and AI integration, it provides an intuitive way to manage tasks, calendar events, and voice notes.
+<h2>Overview</h2>
+<p>
+  A compact, low-power desktop device designed to keep your day organized and on track. 
+  Featuring a custom circular form factor, an E-Ink touchscreen, and AI integration, 
+  it provides an intuitive way to manage tasks, calendar events, and voice notes.
+</p>
 
-### Key Features
-
-* **E-Ink Touchscreen & Rotary Encoder Enclosure**  
-  Uses an ultra-low-power E-Ink display paired with a rotary encoder integrated into the physical enclosure for quick navigation.
-
-* **Smart App & Calendar Sync**  
-  Synchronizes seamlessly over Wi-Fi with your calendar and to-do applications.
-
-* **AI-Powered "Today" Dashboard**  
-  Displays individual screens for today’s events and tasks, plus a combined "Today Page" that uses AI to organize and prioritize your schedule.
-
-* **Voice Dictation**  
-  Built-in microphone lets you quickly dictate notes, set reminders, and create calendar events hands-free.
-
-* **Tactile & Auditory Feedback**  
-  Equipped with a vibration motor and speaker for subtle alerts and audio prompts.
-
-* **Custom Hardware**  
-  Powered by an **ESP32** microcontroller mounted on a custom-designed circular PCB.
+<h3>Key Features</h3>
+<ul>
+  <li>
+    <strong>E-Ink Touchscreen &amp; Rotary Encoder Enclosure:</strong> 
+    Uses an ultra-low-power E-Ink display paired with a rotary encoder integrated into the physical enclosure for quick navigation.
+  </li>
+  <li>
+    <strong>Smart App &amp; Calendar Sync:</strong> 
+    Synchronizes seamlessly over Wi-Fi with your calendar and to-do applications.
+  </li>
+  <li>
+    <strong>AI-Powered "Today" Dashboard:</strong> 
+    Displays individual screens for today’s events and tasks, plus a combined "Today Page" that uses AI to organize and prioritize your schedule.
+  </li>
+  <li>
+    <strong>Voice Dictation:</strong> 
+    Built-in microphone lets you quickly dictate notes, set reminders, and create calendar events hands-free.
+  </li>
+  <li>
+    <strong>Tactile &amp; Auditory Feedback:</strong> 
+    Equipped with a vibration motor and speaker for subtle alerts and audio prompts.
+  </li>
+  <li>
+    <strong>Custom Hardware:</strong> 
+    Powered by an ESP32 microcontroller mounted on a custom-designed circular PCB.
+  </li>
+</ul>
