@@ -1,1 +1,23 @@
-A device that helps keep people on track. It uses its enclosure, that is built into a rotary encoder, and e ink touch screen to save power to help remind people of there calendar. It will sync with calendar and to do apps and have display screens that will show todays event's, todos, and have a today page that mashes it all together using AI when it is connected to wifi. It will also have use a microphone for dictation to quickly make notes, reminders, and calendar events, as well as a vibration motor and a speaker for tactile and auditory output. I will use an esp32 as the the brains, with a custom circular circuit board to connect all of the hardware.
+## Overview
+
+A compact, low-power desktop device designed to keep your day organized and on track. Featuring a custom circular form factor, an E-Ink touchscreen, and AI integration, it provides an intuitive way to manage tasks, calendar events, and voice notes.
+
+### Key Features
+
+* **E-Ink Touchscreen & Rotary Encoder Enclosure**  
+  Uses an ultra-low-power E-Ink display paired with a rotary encoder integrated into the physical enclosure for quick navigation.
+
+* **Smart App & Calendar Sync**  
+  Synchronizes seamlessly over Wi-Fi with your calendar and to-do applications.
+
+* **AI-Powered "Today" Dashboard**  
+  Displays individual screens for today’s events and tasks, plus a combined "Today Page" that uses AI to organize and prioritize your schedule.
+
+* **Voice Dictation**  
+  Built-in microphone lets you quickly dictate notes, set reminders, and create calendar events hands-free.
+
+* **Tactile & Auditory Feedback**  
+  Equipped with a vibration motor and speaker for subtle alerts and audio prompts.
+
+* **Custom Hardware**  
+  Powered by an **ESP32** microcontroller mounted on a custom-designed circular PCB.
