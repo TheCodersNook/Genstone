@@ -20,3 +20,5 @@ A circular pendent-like wearable device designed to keep your day organized and 
 
 * **Custom Hardware**  
   Powered by an **ESP32** microcontroller mounted on a custom-designed circular PCB.
+* **Mockup
+  <img width="3024" height="4032" alt="IMG_3630" src="https://github.com/user-attachments/assets/340b94b8-d666-4096-bf07-9ab5327344d4" />
